@@ -6,13 +6,13 @@
 :black_cat: Cat puzzle games adore you? [Neko Ball [DEMO]](https://edvein-rin.itch.io/neko-ball-demo)  
 :kick_scooter: Interested in Kyiv electric scooter analytics? [Kyiv Electric Scooter Providers](https://edvein-rin.github.io/kyiv-scooters/)
 
-<!--
-### **:wrench: Stack showcase :wrench:**
 
-- [Redux](https://github.com/edvein-rin/i-work-with-redux)  
-Covers middlewares, compositions, and thunks.
-- [Zustand](https://github.com/edvein-rin/i-work-with-zustand)
--->
+### **:wrench: I work with... :wrench:**
+A series of repositories to showcase my skills with specific tech.
+
+[![Redux](https://img.shields.io/badge/edvein--rin%2Fi--work--with--redux-white?logo=redux&label=Redux&labelColor=764abc)](https://github.com/edvein-rin/i-work-with-redux) [![Middlewares](https://img.shields.io/badge/Middlewares-764abc)](https://github.com/edvein-rin/i-work-with-redux) [![Compositions](https://img.shields.io/badge/Compositions-764abc)](https://github.com/edvein-rin/i-work-with-redux) [![Thunk](https://img.shields.io/badge/Thunk-764abc)](https://github.com/edvein-rin/i-work-with-redux)  
+[![Zustand](https://img.shields.io/badge/edvein--rin%2Fi--work--with--zustand-white?logo=monica&label=Zustand&labelColor=716257)](https://github.com/edvein-rin/i-work-with-zustand)
+
   
 ### **💻 Test projects 💻**
 
