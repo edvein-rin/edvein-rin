@@ -10,7 +10,7 @@
 ### **:wrench: I work with... :wrench:**
 A series of repositories to showcase my skills with specific tech.
 
-[![Redux](https://img.shields.io/badge/edvein--rin%2Fi--work--with--redux-white?logo=redux&label=Redux&labelColor=764abc)](https://github.com/edvein-rin/i-work-with-redux) [![Middlewares](https://img.shields.io/badge/Middlewares-764abc)](https://github.com/edvein-rin/i-work-with-redux) [![Compositions](https://img.shields.io/badge/Compositions-764abc)](https://github.com/edvein-rin/i-work-with-redux) [![Thunks](https://img.shields.io/badge/Thunks-764abc)](https://github.com/edvein-rin/i-work-with-redux)  
+[![Redux](https://img.shields.io/badge/edvein--rin%2Fi--work--with--redux-white?logo=redux&label=Redux&labelColor=764abc)](https://github.com/edvein-rin/i-work-with-redux) [![Middlewares](https://img.shields.io/badge/Middlewares-764abc)](https://github.com/edvein-rin/i-work-with-redux) [![Thunks](https://img.shields.io/badge/Thunks-764abc)](https://github.com/edvein-rin/i-work-with-redux)  
 [![Zustand](https://img.shields.io/badge/edvein--rin%2Fi--work--with--zustand-white?logo=monica&label=Zustand&labelColor=716257)](https://github.com/edvein-rin/i-work-with-zustand)
 
   
