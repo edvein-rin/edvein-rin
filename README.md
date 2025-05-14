@@ -6,6 +6,19 @@
 :black_cat: Cat puzzle games adore you? [Neko Ball [DEMO]](https://edvein-rin.itch.io/neko-ball-demo)  
 :kick_scooter: Interested in Kyiv electric scooter analytics? [Kyiv Electric Scooter Providers](https://edvein-rin.github.io/kyiv-scooters/)
 
+<!--
+### **:wrench: Stack showcase :wrench:**
+
+- [Redux](https://github.com/edvein-rin/i-work-with-redux)  
+Covers middlewares, compositions, and thunks.
+- [Zustand](https://github.com/edvein-rin/i-work-with-zustand)
+-->
+  
+### **💻 Test projects 💻**
+
+💸 [Who wants to be a millionaire?](https://github.com/edvein-rin/who-wants-to-be-a-millionaire) `TypeScript` `Next.js` `vitest` `Playwright` `Vercel`  
+🔍 [Github Repo Tracker](https://github.com/edvein-rin/github-repo-tracker) `TypeScript` `Next.js` `Nest.js` `TypeORM` `PostgreSQL` `Docker`
+
 <br />
 
 [![roadmap.sh](https://roadmap.sh/card/wide/656723f15145316d258ef267?variant=dark&roadmaps=frontend%2Creact%2Ctypescript%2Cjavascript&t=1)](https://roadmap.sh)
