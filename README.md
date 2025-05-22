@@ -4,7 +4,8 @@
 :shinto_shrine: Wanna learn Japanese grammar? [Bunpou](https://bunpou.github.io/)  
 :musical_keyboard: Need a Synthesia video to MIDI converter? [Synthesia Video Converter](https://github.com/edvein-rin/synthesia-video-converter)  
 :black_cat: Cat puzzle games adore you? [Neko Ball [DEMO]](https://edvein-rin.itch.io/neko-ball-demo)  
-:kick_scooter: Interested in Kyiv electric scooter analytics? [Kyiv Electric Scooter Providers](https://edvein-rin.github.io/kyiv-scooters/)
+:kick_scooter: Interested in Kyiv electric scooter analytics? [Kyiv Electric Scooter Providers](https://edvein-rin.github.io/kyiv-scooters/)  
+:brain: Searching for development tips and hacks? [Development Knowledge Base](https://edvein-rin.github.io/development-knowledge-base/)  
 
 
 ### **:wrench: I work with... :wrench:**
